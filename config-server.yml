@@ -17,3 +17,6 @@ eureka:
    name:  KBCSS-Book
    title: KBCSS-Title
    isbn:  KBCSS-ISBN
+  
+  
+msg : Hello world ConfigServer
