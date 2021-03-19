@@ -9,3 +9,11 @@ eureka:
     fetch-registry: true
     service-url:
       defaultZone : http://localhost:8761/eureka/
+      
+     
+     
+ #Book
+ book:
+   name:  KBCSS-Book
+   title: KBCSS-Title
+   isbn:  KBCSS-ISBN
